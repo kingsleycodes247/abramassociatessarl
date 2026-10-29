@@ -1,0 +1,56 @@
+ABRAM ASSOCIATES SARL — IMAGE GUIDE
+=====================================
+Until you upload real images, the website automatically shows a
+labelled placeholder in the exact size needed, so the layout looks
+correct either way. Design each file in Canva at the dimensions
+below, export as JPG (photos) or PNG (logo/favicon, for transparency),
+and upload it to the /images/ folder using the EXACT filename listed.
+The site will pick it up automatically — no code changes needed.
+
+FILE                          SIZE (px)     USED ON              NOTES
+------------------------------------------------------------------------------
+favicon.png                   512 x 512     Every page (browser   Square, simple mark. Also
+                                             tab icon)             works as a social profile icon.
+
+og-cover.jpg                  1200 x 630    Social share preview  What shows up when the site
+                                             (index.html)          is shared on WhatsApp/LinkedIn/
+                                                                    Facebook. Include the logo +
+                                                                    tagline.
+
+hero background (optional)    Currently a dark texture is generated in CSS.
+                               If you'd like a real photo behind the hero
+                               text later, let us know and we'll wire it in
+                               at 1920 x 1080.
+
+product-copper.jpg            800 x 800     Home page grid        Square crop, copper cathodes
+product-aluminium.jpg         800 x 800     Home page grid        or ingots close-up.
+product-bauxite.jpg           800 x 800     Home page grid
+product-lead.jpg              800 x 800     Home page grid
+product-crypto.jpg            800 x 800     Home page grid        Abstract/graphic is fine here
+                                                                    (token, blockchain, ledger visual).
+
+product-copper-large.jpg      1200 x 1200   products.html          Larger versions of the same
+product-aluminium-large.jpg   1200 x 1200   products.html          five images above — can reuse
+product-bauxite-large.jpg     1200 x 1200   products.html          the same source photo at a
+product-lead-large.jpg        1200 x 1200   products.html          higher resolution/crop.
+product-crypto-large.jpg      1200 x 1200   products.html
+
+why-us.jpg                    1200 x 1500   Home page "Why Us"    Portrait crop. Office exterior,
+                                             section                Port of Douala, or a team/
+                                                                    warehouse photo.
+
+about-office.jpg               1200 x 1500   about.html            Portrait crop. Office in
+                                                                    Bonapriso, team, or a
+                                                                    documentation/signing photo.
+
+------------------------------------------------------------------------------
+TIPS
+- Keep product photos on a clean, dark or neutral background so the
+  copper/bronze accent colour in the site stands out against them.
+- The overall palette is: anthracite black, copper/bronze, warm
+  aluminium grey, and an ochre red (bauxite). Keep photo edits (Canva
+  filters) subtle and slightly desaturated rather than bright/glossy —
+  it should read as "serious trading house," not "stock photo agency."
+- If you don't have real product photography yet, well-licensed stock
+  photos of raw copper, aluminium ingots, bauxite ore and lead ingots
+  work fine as a placeholder until real photos are available.
